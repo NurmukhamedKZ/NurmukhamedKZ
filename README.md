@@ -1,4 +1,8 @@
-## Hi there 👋
+## Applications:
+Fine-tuning models, creating Agentic AI, architecting RAG systems, optimizing LLMs for production
+
+## Stack:
+PyTorch | FastAPI | LangChain | Qdrant
 
 <!--
 **NurmukhamedKZ/NurmukhamedKZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
