@@ -17,39 +17,13 @@
 
 ## 👤 About Me
 
-AI Engineer with **1+ year** of hands-on experience building production-grade **RAG systems** and **autonomous AI agents**. I don't build demos — I build systems that solve real business problems.
+AI Engineer focused on building production-grade **RAG systems** and **autonomous AI agents** that solve real business problems — not demos.
 
 - 📍 Based in **Almaty, Kazakhstan**
 - 🎓 **KBTU** — Information Systems (B.Sc.)
-- 🌐 Languages: Kazakh (native) · Russian (C2) · English (C1)
+- 🌐 Kazakh (native) · Russian (C2) · English (C1)
 - 🚀 Long-term goal: founding my own AI startup
 - 📹 Building in public — AI from Kazakhstan
-
----
-
-## 💼 Experience
-
-### 🤖 Slideble — AI Engineer *(Sep 2025 – Present)*
-AI-powered slideshow generation platform
-
-- ↓ **30%** LLM token costs via caching & advanced prompt engineering
-- ↑ **40%** faster prompt iteration by integrating **LangSmith** observability pipeline
-- ✅ **100%** elimination of scene rendering errors via structured output pipeline with strict JSON schemas
-- 🔍 Improved factual accuracy by integrating **Tavily API** for real-time external context retrieval
-
-`Python` `OpenAI API` `LangChain` `LangGraph` `LangSmith` `FastAPI` `PostgreSQL` `SQLAlchemy` `Tavily API`
-
----
-
-### 🎓 JauapAI — AI Engineer *(Nov 2024 – Sep 2025)*
-RAG-based educational platform for Kazakhstan's university entrance exam (ENT)
-
-- ↓ **62% TTFT** reduction (40s → 15s) via async processing & vector search tuning
-- 🔬 Solved academic terminology search accuracy with **Hybrid Search** (Dense + Sparse embeddings) — eliminated critical hallucinations
-- 📄 Automated digitization of complex study materials (formulas, tables) via **VLM workflow** + Semantic Chunking ETL pipeline
-- ⚡ Designed scalable **FastAPI + Docker** backend supporting concurrent sessions
-
-`Python` `FastAPI` `Docker` `LangChain` `Qdrant` `Redis` `PostgreSQL` `OpenAI API` `BGE-M3` `Voyage-4` `Telegram API`
 
 ---
 
