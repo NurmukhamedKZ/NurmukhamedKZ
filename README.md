@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 👤 About Me
 
 AI engineer from Almaty, Kazakhstan. I specialize in **RAG systems** and **AI agents** — building real products, not demos.
@@ -20,8 +18,6 @@ Currently focused on:
 
 - 🏫 Building [KBTU Pulse](https://github.com/NurmukhamedKZ) — Telegram bot with 3-level memory for university Q&A
 - 📹 Starting a build-in-public YouTube channel about AI from Kazakhstan
-
----
 
 ## 🛠️ Tech Stack
 
@@ -46,25 +42,12 @@ Currently focused on:
 ![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=F05032)
 
----
-
 ## 📬 Contact
-
-<div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-0f0f0f?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Nureke3445)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NurmukhamedKZ)
 [![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ashekeinureke@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
-
-</div>
 <!--
 **NurmukhamedKZ/NurmukhamedKZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -79,19 +62,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Fast
-<!--
-**NurmukhamedKZ/NurmukhamedKZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-| Fast
