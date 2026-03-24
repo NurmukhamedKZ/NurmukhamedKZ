@@ -26,7 +26,7 @@ Currently focused on:
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=3776AB)
 ![LangChain](https://img.shields.io/badge/LangChain-0f0f0f?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0f0f0f?style=for-the-badge&logo=graphql&logoColor=E10098)
-![OpenAI](https://img.shields.io/badge/OpenAI-0f0f0f?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/OpenAI-0f0f0f?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Vector & Memory**
 
