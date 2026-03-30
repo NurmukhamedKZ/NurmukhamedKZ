@@ -12,11 +12,11 @@
 
 ## 👤 About Me
 
-AI engineer from Almaty, Kazakhstan. I specialize in **RAG systems** and **AI agents** — building real products, not demos.
+AI engineer from Almaty, Kazakhstan. I specialize in **RAG systems** and **AI agents**
 
 Currently focused on:
 
-- 🏫 Building [KBTU Pulse](https://github.com/NurmukhamedKZ) — Telegram bot with 3-level memory for university Q&A
+- 🏫 Building [KBTU Pulse](https://github.com/NurmukhamedKZ/KBTU-Pulse) — Telegram bot with 3-level memory for university Q&A
 - 📹 Starting a build-in-public YouTube channel about AI from Kazakhstan
 
 ## 🛠️ Tech Stack
